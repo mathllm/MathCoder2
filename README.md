@@ -2,11 +2,6 @@
 
 This repository contains files for data processing and continued pretraining to reproduce the paper ["MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code"](link/to/paper).
 
-<br>
-<div align="center">
-    <img src="figures/logo.png" width="80%" title="logo">
-</div>
-
 ## Dataset and Models
 
 Our dataset, MathCode-Pile is released at [MathCode-Pile](https://huggingface.co/datasets/MathGenie/MathCode-Pile). Currently, only part of the dataset is released. You can generate the rest using the code in this repository. The full dataset will be released later.
