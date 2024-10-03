@@ -1,0 +1,9 @@
+[
+    "data_processing/decontamination/test_files/GSM8K_test.jsonl",
+    "data_processing/decontamination/test_files/MATH_test.jsonl",
+    "data_processing/decontamination/test_files/ocw_test.jsonl",
+    "data_processing/decontamination/test_files/sat_math_test.jsonl",
+    "data_processing/decontamination/test_files/mmlu_math_test.jsonl",
+    "data_processing/decontamination/test_files/olympiadbench_test.jsonl",
+    "data_processing/decontamination/test_files/SVAMP_test.jsonl"
+]
