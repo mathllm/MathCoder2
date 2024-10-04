@@ -65,3 +65,17 @@ The documentation for training is at: [training](train/README.md)
 
 The documentation for testing is at: [evaluation](test/README.md).
 
+
+
+
+```
+@inproceedings{
+wang2024mathcoder,
+title={MathCoder: Seamless Code Integration in {LLM}s for Enhanced Mathematical Reasoning},
+author={Zimu Lu and Aojun Zhou and Zimu Lu and Sichun Luo and Weikang Shi and Renrui Zhang and Linqi Song and Mingjie Zhan and Hongsheng Li},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=z8TW0ttBPp}
+}
+```
+
