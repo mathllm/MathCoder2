@@ -1,6 +1,6 @@
 # MathCoder2
 
-This repository contains files for data processing and continued pretraining to reproduce the paper ["MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code"]([link/to/paper](https://arxiv.org/abs/2410.08196)).
+This repository contains files for data processing and continued pretraining to reproduce the paper ["MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code"](https://arxiv.org/abs/2410.08196).
 
 <br>
 <div align="center">
