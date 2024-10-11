@@ -1,6 +1,6 @@
 # MathCoder2
 
-This repository contains files for data processing and continued pretraining to reproduce the paper ["MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code"](link/to/paper).
+This repository contains files for data processing and continued pretraining to reproduce the paper ["MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code"]([link/to/paper](https://arxiv.org/abs/2410.08196)).
 
 <br>
 <div align="center">
@@ -8,7 +8,7 @@ This repository contains files for data processing and continued pretraining to 
 </div>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/collections/MathGenie/mathcoder2-66fa178501ab1cdf36637f83">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="link/to/paper">Paper</a> &nbsp&nbsp ｜ &nbsp&nbsp📖 <a href="https://mathllm.github.io/mathcoder2/">Project Page</a>
+        🤗 <a href="https://huggingface.co/collections/MathGenie/mathcoder2-66fa178501ab1cdf36637f83">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/2410.08196">Paper</a> &nbsp&nbsp ｜ &nbsp&nbsp📖 <a href="https://mathllm.github.io/mathcoder2/">Project Page</a>
 </p>
 
 ## Dataset and Models
