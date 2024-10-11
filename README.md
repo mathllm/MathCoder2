@@ -65,9 +65,21 @@ The documentation for training is at: [training](train/README.md)
 
 The documentation for testing is at: [evaluation](test/README.md).
 
+## Citation
 
+If you find this repository helpful, please consider citing our papers:
 
-
+```
+@misc{lu2024mathcoder2bettermathreasoning,
+      title={MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code}, 
+      author={Zimu Lu and Aojun Zhou and Ke Wang and Houxing Ren and Weikang Shi and Junting Pan and Mingjie Zhan and Hongsheng Li},
+      year={2024},
+      eprint={2410.08196},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.08196}, 
+}
+```
 ```
 @inproceedings{
 wang2024mathcoder,
