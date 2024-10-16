@@ -24,6 +24,13 @@ The MathCoder2 models are as follows:
 |MathCoder2-Mistral-7B|🤗 [link](https://huggingface.co/MathGenie/MathCoder2-Mistral-7B)|
 |MathCoder2-CodeLlama-7B|🤗 [link](https://huggingface.co/MathGenie/MathCoder2-CodeLlama-7B)|
 
+FastText Models:
+
+|Model Name|Huggingface Link|
+|:--|:--|
+|fastText-cc-en-filter_round1|🤗 [link](https://huggingface.co/MathGenie/fastText-cc-en-filter_round1)|
+|fastText-cc-en-filter_round2|🤗 [link](https://huggingface.co/MathGenie/fastText-cc-en-filter_round2)|
+
 ## Introduction
 
 Although utilizing existing open-source code in the pretraining phase can enhance the mathematical reasoning abilities of LLMs, such code often lacks accompanying natural language explanations or context. This might hinder the model's ability to fully understand them. In this paper, we propose a novel method for *generating large amounts  of mathematical code accompanied by corresponding natural language reasoning steps*, which are extracted from math-related pretraining texts. Different from the existing math-related code, our generated code is paired with natural language reasoning steps, making the code more comprehensible. Also, as our code is generated based on math-related texts, they are all highly related to mathematical reasoning. When used in pretraining, the mathematical code paired with reasoning steps facilitates LLMs' understanding of math-related pretraining texts, as it effectively captures the underlying reasoning process. Furthermore, this data enhances the model's potential to be finetuned for TIR reasoning.
